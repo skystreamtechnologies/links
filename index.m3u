@@ -1,60 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1,Channel 1
+#EXTINF:-1,NO1
 https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:-1,Channel 2
+#EXTINF:-1,AARYA
 https://live.skystream.in/live/aaryatv/index.m3u8
-#EXTINF:-1,Channel 3
+#EXTINF:-1,TCN
 https://live.skystream.in/live/tcn8909/index.m3u8
-#EXTINF:-1,Channel 4
+#EXTINF:-1,NEW VISION
 https://live.skystream.in/live/newvision2924/index.m3u8
-#EXTINF:-1,Channel 5
+#EXTINF:-1,PCV
 https://live.skystream.in/live/pcvpattambi/index.m3u8
-#EXTINF:-1,Channel 6
+#EXTINF:-1,KCV KUTTANAD
 https://live.skystream.in/live/kcvkuttanadhd/index.m3u8
-#EXTINF:-1,Channel 7
+#EXTINF:-1,NETWORK PAYYANUR
 https://live.skystream.in/live/networkpayyanur/index.m3u8
-#EXTINF:-1,Channel 8
+#EXTINF:-1,DRISYA
 https://live.skystream.in/live/drishya5060/index.m3u8
-#EXTINF:-1,Channel 9
+#EXTINF:-1,MEDIA TODAY
 https://live.skystream.in/live/mediatday/index.m3u8
-#EXTINF:-1,Channel 10
+#EXTINF:-1,DRISYA KOTTAYAM
 https://live.skystream.in/live/DrisyaPala2924/index.m3u8
-#EXTINF:-1,Channel 11
+#EXTINF:-1,AMEN VILLAGE
 https://live.skystream.in/live/amenvillagetv/index.m3u8
-#EXTINF:-1,Channel 12
+#EXTINF:-1,THANIMA
 https://live.skystream.in/live/thanimatvtvm/index.m3u8
-#EXTINF:-1,Channel 13
+#EXTINF:-1,JJ NEWS TAMIL
 https://live.skystream.in/live/jjnewstamil/index.m3u8
-#EXTINF:-1,Channel 14
+#EXTINF:-1,NTN
 https://live.skystream.in/live/ntntv/index.m3u8
-#EXTINF:-1,Channel 15
+#EXTINF:-1,CITY KANNUR
 https://live.skystream.in/live/citykannurcity/index.m3u8
-#EXTINF:-1,Channel 16
+#EXTINF:-1,KERALA TODAY
 https://live.skystream.in/live/krlatoday/index.m3u8
-#EXTINF:-1,Channel 17
+#EXTINF:-1,NEW MEDIA
 https://live.skystream.in/live/newmedia2924/index.m3u8
-#EXTINF:-1,Channel 18
+#EXTINF:-1,SOUTH VISION
 https://live.skystream.in/live/southvsnklm/index.m3u8
-#EXTINF:-1,Channel 19
+#EXTINF:-1,CITY
 https://live.skystream.in/live/citytv2924/index.m3u8
-#EXTINF:-1,Channel 20
+#EXTINF:-1,RAINBOW
 https://live.skystream.in/live/rainbowtv/index.m3u8
-#EXTINF:-1,Channel 21
+#EXTINF:-1,JANASRUTHI
 https://live.skystream.in/live/janatvm/index.m3u8
-#EXTINF:-1,Channel 22
+#EXTINF:-1,THAQWA TAMIL
 https://live.skystream.in/live/thaqwa0811/index.m3u8
-#EXTINF:-1,Channel 23
+#EXTINF:-1,NPLUS
 https://live.skystream.in/live/nplus/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1,VEDHA
 https://live.skystream.in/live/vedha6528/index.m3u8
-#EXTINF:-1,Channel 25
+#EXTINF:-1,LEAF
 https://live.skystream.in/live/leaftv/index.m3u8
-#EXTINF:-1,Channel 26
+#EXTINF:-1,AALAYAM
 https://live.skystream.in/live/aalayam4384/index.m3u8
-#EXTINF:-1,Channel 27
+#EXTINF:-1,KUMUDAM NEWS TAMIL
 https://live.skystream.in/live/kumudam8050/index.m3u8
-#EXTINF:-1,Channel 28
+#EXTINF:-1,ALPHA
 https://live.skystream.in/live/alphatv/index.m3u8
-#EXTINF:-1,Channel 29
+#EXTINF:-1,CHANNEL 2
 https://live.skystream.in/live/channel6785/index.m3u8
+
