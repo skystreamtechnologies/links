@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",00s Replay
 https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",00s Replay
 https://live.skystream.in/live/aaryatv/index.m3u8
