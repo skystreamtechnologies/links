@@ -1,7 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",00s Replay
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Shop",1-2-3 TV (270p)
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",1Almere TV (720p)
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+
+#EXTINF:-1,Channel 1
+https://live.skystream.in/live/no1tv/index.m3u8
+#EXTINF:-1,Channel 2
+https://live.skystream.in/live/aaryatv/index.m3u8
+#EXTINF:-1,Channel 3
+https://live.skystream.in/live/tcn8909/index.m3u8
+#EXTINF:-1,Channel 4
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1,Channel 5
+https://live.skystream.in/live/pcvpattambi/index.m3u8
+#EXTINF:-1,Channel 6
+https://live.skystream.in/live/kcvkuttanadhd/index.m3u8
+#EXTINF:-1,Channel 7
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1,Channel 8
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1,Channel 9
+https://live.skystream.in/live/mediatday/index.m3u8
+#EXTINF:-1,Channel 10
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
+#EXTINF:-1,Channel 11
+https://live.skystream.in/live/amenvillagetv/index.m3u8
+#EXTINF:-1,Channel 12
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
+#EXTINF:-1,Channel 13
+https://live.skystream.in/live/jjnewstamil/index.m3u8
+#EXTINF:-1,Channel 14
+https://live.skystream.in/live/ntntv/index.m3u8
+#EXTINF:-1,Channel 15
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1,Channel 16
+https://live.skystream.in/live/krlatoday/index.m3u8
+#EXTINF:-1,Channel 17
+https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF:-1,Channel 18
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1,Channel 19
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF:-1,Channel 20
+https://live.skystream.in/live/rainbowtv/index.m3u8
+#EXTINF:-1,Channel 21
+https://live.skystream.in/live/janatvm/index.m3u8
+#EXTINF:-1,Channel 22
+https://live.skystream.in/live/thaqwa0811/index.m3u8
+#EXTINF:-1,Channel 23
+https://live.skystream.in/live/nplus/index.m3u8
+#EXTINF:-1,Channel 24
+https://live.skystream.in/live/vedha6528/index.m3u8
+#EXTINF:-1,Channel 25
+https://live.skystream.in/live/leaftv/index.m3u8
+#EXTINF:-1,Channel 26
+https://live.skystream.in/live/aalayam4384/index.m3u8
+#EXTINF:-1,Channel 27
+https://live.skystream.in/live/kumudam8050/index.m3u8
+#EXTINF:-1,Channel 28
+https://live.skystream.in/live/alphatv/index.m3u8
+#EXTINF:-1,Channel 29
+https://live.skystream.in/live/channel6785/index.m3u8
