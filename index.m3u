@@ -60,4 +60,10 @@ https://live.skystream.in/live/alphatv/index.m3u8
 https://live.skystream.in/live/fight090/index.m3u8
 #EXTINF:-1,CHANNEL 2
 https://live.skystream.in/live/channel6785/index.m3u8
+#EXTINF:-1,DANGI DIGITAL TV
+rtmp://live.skystream.in/live/dangi0006
+#EXTINF:-1,Gsv
+https://live.skystream.in/live/gsv2924/index.m3u8
+
+
 
