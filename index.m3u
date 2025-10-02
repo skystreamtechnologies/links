@@ -56,14 +56,20 @@ https://live.skystream.in/live/aalayam4384/index.m3u8
 https://live.skystream.in/live/kumudam8050/index.m3u8
 #EXTINF:-1,ALPHA
 https://live.skystream.in/live/alphatv/index.m3u8
-#EXTINF:-1,FIGHT TV
-https://live.skystream.in/live/fight090/index.m3u8
+#EXTINF:-1,gracetv
+https://live.skystream.in/live/gracetv/index.m3u8
 #EXTINF:-1,CHANNEL 2
 https://live.skystream.in/live/channel6785/index.m3u8
 #EXTINF:-1,DANGI DIGITAL TV
 rtmp://live.skystream.in/live/dangi0006
 #EXTINF:-1,Gsv
 https://live.skystream.in/live/gsv2924/index.m3u8
+#EXTINF:-1,Kalasam TV
+https://live.skystream.in/live/Kala2500/index.m3u8
+#EXTINF:-1,AMMAN TV
+https://live.skystream.in/live/amman2500/index.m3u8
+#EXTINF:-1,ROJA TV 
+https://live.skystream.in/live/roja2500/index.m3u8
 
 
 
